@@ -1,7 +1,7 @@
 # 📄 Urban Explorers
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2017/01/31/19/54/can-2026810_960_720.png" height="10%" width="30%">
+<img src="https://cdn.pixabay.com/photo/2017/01/31/19/54/can-2026810_960_720.png" height="10%" width="5%">
 </p>
 
 <br>
