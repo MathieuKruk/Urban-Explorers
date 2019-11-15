@@ -29,7 +29,7 @@
 
 <ul>
     <li>Make a unique Username function</li><br>
-    <li>Implement anti spam the technique of honeypot.</li><br>
+    <li>Implement honeypot.</li><br>
     <li>Work on a good and clear user experience.</li>
 </ul>
 
