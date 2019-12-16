@@ -8,7 +8,7 @@
 ℹ️ Development started on 09/12/2019.
 
 <p align="center">
-  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9a%2FView_of_5_Pointz%252C_January_20%252C_2013.jpg&sp=e62a67ff12653d3d3c10c09b7224d4af">
+  <img src="https://www.wallpaperflare.com/static/627/654/555/lost-places-factory-old-lapsed-wallpaper-preview.jpg">
 </p>
 
 <br>
