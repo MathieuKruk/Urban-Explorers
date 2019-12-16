@@ -2,7 +2,7 @@
 
 <ul>
   <li>Urban Explorers is a dynamic Website about urban culture</li>
-  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & electronic music, as well as graffiti spots and other sections.</li>
+  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & electronic music, as well as graffiti spots and other stuff.</li>
 </ul>
 
 ℹ️ Development started on 09/12/2019.
