@@ -154,8 +154,7 @@ OpenSource | Free
 <hr>
 <br>
 
+✍️ Readme Author: Mathieu Kruk 
 <p align="center">
 <img src="https://media.giphy.com/media/p9o6H3ss2sgLu/giphy.gif" height="50%" width="50%">
 </p>
-
-✍️ Readme Author: Mathieu Kruk 
