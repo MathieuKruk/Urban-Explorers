@@ -9,8 +9,6 @@
 
 <hr>
 
-ℹ️ Development started on 09/12/2019.
-
 <p align="center">
   <img src="https://www.wallpaperflare.com/static/627/654/555/lost-places-factory-old-lapsed-wallpaper-preview.jpg">
 </p>
@@ -19,7 +17,7 @@
 
 ## ◾ Motivation
 
-It has been launch the 09/12/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+It has been launch the 💠09/12/2019💠 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
 
 Below, you will find our guidelines hosted on the school repo: 
 
