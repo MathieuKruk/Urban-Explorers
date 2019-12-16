@@ -1,8 +1,8 @@
 # Urban Explorers 🎧
 
 <ul>
-  <li>Dynamic Website about urban culture</li>
-  <li>Music, graffiti and other sections.</li>
+  <li>Urban Explorers is a dynamic Website about urban culture</li>
+  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & electronic music, as well as graffiti spots and other sections.</li>
 </ul>
 
 ℹ️ Development started on 09/12/2019.
