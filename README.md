@@ -1,9 +1,13 @@
 # Urban Explorers 🎧
 
+## ◾ Features
+
 <ul>
   <li>Urban Explorers is a dynamic Website about urban culture</li>
-  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & electronic music, as well as graffiti spots and other stuff.</li>
+  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & electronic music, as well as     graffiti spots and other stuff.</li>
 </ul>
+
+<hr>
 
 ℹ️ Development started on 09/12/2019.
 
@@ -11,9 +15,7 @@
   <img src="https://www.wallpaperflare.com/static/627/654/555/lost-places-factory-old-lapsed-wallpaper-preview.jpg">
 </p>
 
-<br>
 <hr>
-<br>
 
 ## ◾ Motivation
 
@@ -62,9 +64,7 @@ something aesthetically pleasing to most.
 
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 
-<br>
 <hr>
-<br>
 
 ## ◾ Tasks
 
@@ -72,9 +72,7 @@ something aesthetically pleasing to most.
 - [x] Work on the main project.
 - [ ] Launch the app.
 
-<br>
 <hr>
-<br>
 
 ## ◾ Build status
 
@@ -85,19 +83,16 @@ Logs
    - ...
    - ...
 
-<br>
 <hr>
-<br>
 
 ## ◾ Screenshots
 
-### Api architecture
+### Main Page
 <p align="center">
   <img src="apiArchitecture.jpg">
 </p>
-<br>
+
 <hr>
-<br>
 
 ## ◾ Tech/framework used
 
@@ -109,22 +104,7 @@ Logs
    - [Node.js](https://nodejs.org/en/)
    - [React](https://reactjs.org/)
 
-<br>
 <hr>
-<br>
-
-## ◾ Features
-
-<ul>
-  <li>Real-time Chatbox</li>
-  <li>Pre-organized channels</li>
-  <li></li>
-  <li></li>
-</ul>
-
-<br>
-<hr>
-<br>
 
 ## ◾ Code Example
 
@@ -133,25 +113,20 @@ function test() {
   console.log("This is a test for code input?");
 }
 ```
-<br>
+
 <hr>
-<br>
 
 ## ◾ Credits
 
 [Mathieu Kruk](https://github.com/MathieuKruk)
 
-<br>
 <hr>
-<br>
 
 ## ◾ License
 
 OpenSource | Free
 
-<br>
 <hr>
-<br>
 
 ✍️ Readme Author: Mathieu Kruk 
 <p align="center">
