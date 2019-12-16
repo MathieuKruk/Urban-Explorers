@@ -1,49 +1,154 @@
-# 📄 Urban Explorers
+# Urban Explorers
+
+<ul>
+  <li>Dynamic Website about urban culture</li>
+  <li>Music, graffiti and other sections.</li>
+</ul>
+
+ℹ️ Development started on 09/12/2019.
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2017/01/31/19/54/can-2026810_960_720.png" height="10%" width="5%">
+  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fcdn.suwalls.com%2Fwallpapers%2Ffantasy%2Fspaceships-heading-to-the-light-54324-1920x1080.jpg&sp=7ce47b6377fda81eb3c41b1372f38174">
 </p>
 
 <br>
+<hr>
+<br>
 
-<p align="center">◽️ Project with PHP Form to allow users to register, login and logout to a Database (MySql)  ◽️</p>
+## ◾ Motivation
+
+It has been launch the 09/12/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+
+Below, you will find our guidelines hosted on the school repo: 
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+== Learning objectives
+
+At the end of this challenge you should be able to:
+
+* use the *Node.js* syntax
+* use *object oriented programming*
+* think better design through
+* make a *UML*
+
+
+== The mission
+
+During your last challenge you had to implement the {bship}[battleship] game
+into a chat. Most of you didn't have the time or simply implemented a basic
+version of it. Well this challenge will have you revisit the game, write it in
+an *OOP* programming style and cook up a *tasty design*.
+
+.Instructions
+* make a visually appealing mock-up
+* spend time on the design!!!
+* try to think an *UML* through
+* write the battleship game in *OOP*
+* integrate the design into your game
+
+.Optional
+* make the game *multiplayer* (hint: _Socket.IO_)
+* use a framework (React, Vue, etc...)
+
+NOTE: Visuals are always subjective, but try to help each other out to make
+something aesthetically pleasing to most.
+
+=== Resources
+
+* https://www.smartdraw.com/uml-diagram/[What's an UML?]
+* https://www.codeproject.com/articles/618/oop-and-uml[OOP and UML]
+* https://tinyurl.com/y8d2z4ms[OOP tutorial]
+
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ The form must contain:</h2>
+## ◾ Tasks
+
+- [x] Initialize the ReadMe.
+- [x] Work on the main project.
+- [ ] Launch the app.
+
+<br>
+<hr>
+<br>
+
+## ◾ Build status
+
+📲 V1.0.1
+Logs
+   - Readme initialized.
+   - ...
+   - ...
+   - ...
+
+<br>
+<hr>
+<br>
+
+## ◾ Screenshots
+
+### Api architecture
+<p align="center">
+  <img src="apiArchitecture.jpg">
+</p>
+<br>
+<hr>
+<br>
+
+## ◾ Tech/framework used
+
+1. Front-end
+   - [React](https://reactjs.org/)
+   - [Bootstrap](https://getbootstrap.com/)
+   
+2. Back-end
+   - [Node.js](https://nodejs.org/en/)
+   - [React](https://reactjs.org/)
+
+<br>
+<hr>
+<br>
+
+## ◾ Features
 
 <ul>
-  <li>Inputs that will receive data from the user: Username, Email, Password, Firstname, Lastname, linkedin and github urls.</li><br>
-  <li>Semantical and accessible HTML.</li><br>
-  <li>A redable visual error if empty or invalid input.</li><br>
-  <li>The form has to be sanitised and validated (server side).</li><br>
+  <li>Real-time Chatbox</li>
+  <li>Pre-organized channels</li>
+  <li></li>
+  <li></li>
 </ul>
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ Still working on:</h2>
+## ◾ Code Example
 
-<ul>
-    <li>Make a unique Username function</li><br>
-    <li>Implement honeypot.</li><br>
-    <li>Work on a good and clear user experience.</li>
-</ul>
+```
+function test() {
+  console.log("This is a test for code input?");
+}
+```
+<br>
+<hr>
+<br>
+
+## ◾ Credits
+
+[Mathieu Kruk](https://github.com/MathieuKruk)
 
 <br>
 <hr>
 <br>
 
-<h2>⬛️ Assets links list:</h2>
+## ◾ License
 
-<ul>
-    <li>LOGO: https://cdn.pixabay.com/photo/2017/01/31/19/54/can-2026810_960_720.png</li><br>
-    <li>TITLE-BACKGROUND-IMAGE: https://cdn.pixabay.com/photo/2016/11/01/14/48/purple-1788479_1280.png</li>
-    <li>BACKGROUND_IMAGE: https://images.pexels.com/photos/1137752/pexels-photo-1137752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260</li>
-</ul>
+OpenSource | Free
 
 <br>
 <hr>
@@ -52,3 +157,5 @@
 <p align="center">
 <img src="https://media.giphy.com/media/p9o6H3ss2sgLu/giphy.gif" height="50%" width="50%">
 </p>
+
+✍️ Readme Author: Mathieu Kruk 
