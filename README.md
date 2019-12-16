@@ -1,4 +1,4 @@
-# Urban Explorers
+# Urban Explorers 🎧
 
 <ul>
   <li>Dynamic Website about urban culture</li>
