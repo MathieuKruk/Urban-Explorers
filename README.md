@@ -3,7 +3,7 @@
 ## ◾ Features
 
 <ul>
-  <li>Urban Explorers is my personal project.</li>
+  <li>Urban Explorers is a music related API.</li>
   <li>The ultimate goal is to provide a daily news source and interesting links about music genders as Hip-Hop & electronic music as weel as a chat with personal account.</li>
 </ul>
 
