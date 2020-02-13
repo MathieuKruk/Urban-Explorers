@@ -56,8 +56,8 @@ Logs
 1. Front-end
    - [HTML](https://html.com/)
    - [SASS](https://sass-lang.com/)
-   - [React](https://reactjs.org/)
    - [Bootstrap](https://getbootstrap.com/)
+   - [React](https://reactjs.org/)
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
