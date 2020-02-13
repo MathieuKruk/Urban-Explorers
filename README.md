@@ -18,10 +18,10 @@
 ## ◾ Motivation
 
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
-<p>As i was 13, I had recieved my first and impressivly big mp3/usb from my parents. I had no idea of the importance of that present at that time. But know, i can certainly confirm you that from that day, music became my reason to live. <br>
-In the bus to school, at school, in the bus back to home, at home,... my consumption of music became sudenly very massive. And what a wonderful pleasure: Discovering new artits for the first time, hearing new frequencies, new genders. A Wonderfull trip that continues even today, 13 years after. <br>
+<p>When I was 13, I received an mp3 player from my parents. At that time, I had no idea of the importance of this gift. Today, I can certainly confirm you that this small device (today very retro) caused that music became my reason to live. <br>
+On the bus to school, at school, coming back from school, at home, ... my music consumption quickly became massive. What a wonderful pleasure to discover new artists, new frequencies and tones, new genders. A magical journey that I have been doing now for 13 years. <br>
   
-Shorlty after that period, i started to learn playing guitar. After 1 year, I joined my first (and sadly the last) metal band (I am telling you, it was very serious at that time, even the drummer and the guitarist starded a kiddo fight for the remaining place in the band ...). With that thugs, i understanted how beautiful, demanding music was and its wonderful ability to bring people together. <br>
+Shortly after this period, I started taking guitar lessons. After 1 year, I joined my first (and unfortunately the last) metal band (I tell you, it was a serious deal at that time, even the guitarists fought for the number of places in the band ...). With that thugs, i learned how beautiful, demanding music was and its wonderful ability to bring people together. <br>
 </p>
 <hr>
 
