@@ -17,7 +17,6 @@
 
 ## ◾ Motivation
 
-▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 <p>When I was 13, I received an mp3 player from my parents. At that time, I had no idea of the importance of this gift. Today, I can certainly confirm you that this small device (today very retro) caused that music became my reason to live. <br>
 On the bus to school, at school, coming back from school, at home, ... my music consumption quickly became massive. What a wonderful pleasure to discover new artists, new frequencies and tones, new genders. A magical journey that I have been doing now for 13 years. <br>
   
