@@ -4,7 +4,7 @@
 
 <ul>
   <li>Urban Explorers is a music related Website.</li>
-  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & EDM as well as a chat with personal account.</li>
+  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & EDM as well as a chat with personal account, tutorials, parties and shows calendar</li>
 </ul>
 
 <hr>
