@@ -21,7 +21,9 @@
 <p>When I was 13, I received an mp3 player from my parents. At that time, I had no idea of the importance of this gift. Today, I can certainly confirm you that this small device (today very retro) caused that music became my reason to live. <br>
 On the bus to school, at school, coming back from school, at home, ... my music consumption quickly became massive. What a wonderful pleasure to discover new artists, new frequencies and tones, new genders. A magical journey that I have been doing now for 13 years. <br>
   
-Shortly after this period, I started taking guitar lessons. After 1 year, I joined my first (and unfortunately the last) metal band (I tell you, it was a serious deal at that time, even the guitarists fought for the number of places in the band ...). With that thugs, i learned how beautiful, demanding music was and its wonderful ability to bring people together. <br>
+Shortly after this period, I started taking guitar lessons. After 1 year, I joined my first (and unfortunately the last) metal band (I tell you, it was a serious deal at that time, even the guitarists fought for the number of places in the band ...). With that thugs, I learned how beautiful, demanding music was and its wonderful ability to bring people together. <br>
+
+WIP
 </p>
 <hr>
 
