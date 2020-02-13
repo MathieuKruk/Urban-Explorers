@@ -17,10 +17,12 @@
 
 ## ◾ Motivation
 
-<p></p>
-
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
-
+<p>As i was 13, I had recieved my first and impressivly big mp3/usb from my parents. I had no idea of the importance of that present at that time. But know, i can certainly confirm you that from that day, music became my reason to live. <br>
+In the bus to school, at school, in the bus back to home, at home,... my consumption of music became sudenly very massive. And what a wonderful pleasure: Discovering new artits for the first time, hearing new frequencies, new genders. A Wonderfull trip that continues even today, 13 years after. <br>
+  
+Shorlty after that period, i started to learn playing guitar. After 1 year, I joined my first (and sadly the last) metal band (I am telling you, it was very serious at that time, even the drummer and the guitarist starded a kiddo fight for the remaining place in the band ...). With that thugs, i understanted how beautiful, demanding music was and its wonderful ability to bring people together. <br>
+</p>
 <hr>
 
 ## ◾ Tasks
