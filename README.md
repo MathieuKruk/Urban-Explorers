@@ -3,8 +3,8 @@
 ## ◾ Features
 
 <ul>
-  <li>Urban Explorers is a music related API.</li>
-  <li>The ultimate goal is to provide a daily news source and interesting links about music genders as Hip-Hop & electronic music as weel as a chat with personal account.</li>
+  <li>Urban Explorers is a music related Website.</li>
+  <li>The ultimate goal is to provide daily news and interesting links about music genders as Hip-Hop & EDM as well as a chat with personal account.</li>
 </ul>
 
 <hr>
@@ -54,12 +54,14 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
+   - [HTML](https://html.com/)
+   - [SASS](https://sass-lang.com/)
    - [React](https://reactjs.org/)
    - [Bootstrap](https://getbootstrap.com/)
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
-
+   - [Socket.io](https://socket.io/)
 <hr>
 
 ## ◾ Code Example
@@ -80,7 +82,7 @@ function test() {
 
 ## ◾ License
 
-OpenSource | Free
+All rights reserved
 
 <hr>
 
