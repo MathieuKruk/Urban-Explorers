@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-  <img src="http://www.bruna.cat/imgdownload/full/23/232155/underground-wallpaper.jpg">
+  <img src="https://static.standard.co.uk/s3fs-public/thumbnails/image/2018/11/08/12/fabriclive-19102018-by-sarah-ginn-31646688508-o.jpg?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5">
 </p>
 
 <hr>
