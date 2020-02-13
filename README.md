@@ -61,7 +61,7 @@ Logs
    
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
-   - [Socket.io](https://socket.io/)
+   - [FireBase](https://firebase.google.com/docs/database)
 <hr>
 
 ## ◾ Code Example
