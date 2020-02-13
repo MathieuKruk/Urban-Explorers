@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://www.wallpaperflare.com/static/627/654/555/lost-places-factory-old-lapsed-wallpaper-preview.jpg">
+  <img src="http://www.bruna.cat/imgdownload/full/23/232155/underground-wallpaper.jpg">
 </p>
 
 <hr>
