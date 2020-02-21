@@ -50,7 +50,7 @@ Logs
 
 ### Main Page
 <p align="center">
-  <img src="apiArchitecture.jpg">
+  <img src="">
 </p>
 
 <hr>
