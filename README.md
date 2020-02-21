@@ -29,6 +29,7 @@ WIP
 ## ◾ Tasks
 
 - [x] Initialize the ReadMe.
+- [X] Finding the best technologies that suit to the project.
 - [ ] Work on the main project.
 - [ ] Launch the app.
 
@@ -38,7 +39,7 @@ WIP
 
 📲 V1.0.1
 Logs
-   - Readme initialized.
+   - Readme WIP.
    - ...
    - ...
    - ...
