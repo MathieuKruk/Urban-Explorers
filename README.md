@@ -65,6 +65,10 @@ Logs
 2. Back-end
    - [Node.js](https://nodejs.org/en/)
    - [FireBase](https://firebase.google.com/docs/database)
+   
+3. Others
+   - Package manager: [Yarn](https://yarnpkg.com/)
+   
 <hr>
 
 ## ◾ Code Example
