@@ -7,14 +7,14 @@ import Logo from './style/img/logo.png';
 const NavigationBar = (props) => {
     return (
             <Navbar sticky="top" className={'cNavBar navbar-light shadow'} expand="lg" fluid={true}>
-                <Navbar.Brand href="/">
-                    <img
-                        alt=""
+                <img
+                        alt="Logo of the application"
                         src={Logo}
                         width="30"
                         height="30"
                         className=""
                     />{' '}
+                <Navbar.Brand href="/" className={"ml-3"}>
                     <div className={"titleNavBar"}>Urban Explorers</div>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav"/>

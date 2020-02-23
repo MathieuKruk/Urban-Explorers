@@ -8,7 +8,10 @@ import {
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import JumbotronHeader from './Components/Containers/Jumbotron/Jumbotron';
+import RibbonInfos from './Components/Containers/RibbonInfos/RibbonInfos';
+
 import NavigationBar from './Components/Functionals/NavigationBar/NavigationBar';
+
 
 function App() {
   return (
@@ -16,6 +19,7 @@ function App() {
       <Router>
         <NavigationBar />
         <JumbotronHeader />
+        <RibbonInfos />
       </Router>
     </div>
   );
