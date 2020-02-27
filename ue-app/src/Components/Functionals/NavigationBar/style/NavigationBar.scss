@@ -1,0 +1,23 @@
+.navbar {
+    background-color: black;
+    font-family: 'Righteous', ;
+}
+.navbar-brand{
+    color:white !important;
+    text-decoration: underline;
+}
+a.dropdown-toggle.nav-link {
+    color: white !important;
+}
+a.nav-link {
+    color: white !important;
+}
+a.dropdown-item {
+    display: flex;
+    justify-content: end;
+    color: black !important;
+}
+.nav-dropdown {
+    display: flex;
+    justify-content: flex-end;
+}

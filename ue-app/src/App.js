@@ -7,7 +7,10 @@ import {
 } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import JumbotronHeader from './Components/Containers/Jumbotron/Jumbotron';
+import CarouselHeader from './Components/Containers/Jumbotron/CarouselHeader';
+import Chat from './Components/Containers/Chat/Chat';
+import Register from './Components/Containers/Authentication/Register';
+import Login from './Components/Containers/Authentication/Login';
 import RibbonInfos from './Components/Containers/RibbonInfos/RibbonInfos';
 
 import NavigationBar from './Components/Functionals/NavigationBar/NavigationBar';
@@ -18,7 +21,7 @@ function App() {
     <div className="App">
       <Router>
         <NavigationBar />
-        <JumbotronHeader />
+        <CarouselHeader />
         <RibbonInfos />
       </Router>
     </div>

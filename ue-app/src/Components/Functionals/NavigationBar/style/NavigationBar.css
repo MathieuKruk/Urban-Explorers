@@ -1,0 +1,38 @@
+.navbar {
+  background-color: black;
+  font-family: "Righteous";
+  height: 3rem;
+}
+
+.navbar-brand {
+  color: white !important;
+  text-decoration: underline;
+}
+
+a.dropdown-toggle.nav-link {
+  color: white !important;
+}
+
+a.nav-link {
+  color: white !important;
+}
+
+a.dropdown-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  color: black !important;
+}
+
+.nav-dropdown {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+/*# sourceMappingURL=NavigationBar.css.map */
