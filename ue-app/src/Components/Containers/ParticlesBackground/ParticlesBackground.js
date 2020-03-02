@@ -1,12 +1,12 @@
 import React from 'react';
-import './style/ParticulesBackground.css';
+import './style/ParticlesBackground.css'
 
 import Particles from 'react-particles-js';
 
-class ParticulesBackground extends React.Component{
+class ParticlesBackground extends React.Component{
 	render(){
 		return(
-			<div className="containerParticules" id="particules-js">
+			<div className="containerParticles" id="particles-js">
 				<Particles className={'particles'} params={{
                                 // PARTICLES
                                 particles: {
@@ -14,7 +14,7 @@ class ParticulesBackground extends React.Component{
                                     "value": 160,
                                     "density": {
                                       "enable": true,
-                                      "value_area": 1600
+                                      "value_area": 2000,
                                     }
                                   },
                                   // Color
@@ -123,11 +123,10 @@ class ParticulesBackground extends React.Component{
                                     }
                                   }
                                 },
-                                // style={{
-                                //   width: '100%',
-                                //   height: '50%',
-                                //   backgroundImage: `url(${logo})` 
-                                // }},
+                                "style":{
+                                   width: '100%',
+                                   height: '150%', 
+                                 },
                                 "retina_detect": true
                     }}
                     />
@@ -135,4 +134,4 @@ class ParticulesBackground extends React.Component{
 		);
 	}
 }
-export default ParticulesBackground;
+export default ParticlesBackground;

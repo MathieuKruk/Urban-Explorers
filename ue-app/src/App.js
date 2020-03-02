@@ -9,7 +9,7 @@ import {
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import ParticlesBackground from './Components/Containers/ParticlesBackground/ParticulesBackground';
+import ParticlesBackground from './Components/Containers/ParticlesBackground/ParticlesBackground';
 import CarouselHeader from './Components/Containers/Jumbotron/CarouselHeader';
 import Chat from './Components/Containers/Chat/Chat';
 import Register from './Components/Containers/Authentication/Register';

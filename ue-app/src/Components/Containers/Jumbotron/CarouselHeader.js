@@ -10,11 +10,8 @@ import News3 from './style/img/news3.jpg'
 const CarouselHeader = () => {
   
         return  <div className={'CarouselHeader'}>
-        
-                  <Jumbotron>
-                     
-                  </Jumbotron>
-                    {/* <Carousel>
+
+                    <Carousel className={'carousel'}>
                       <Carousel.Item>
                         <img
                           className="d-block w-100"
@@ -48,7 +45,7 @@ const CarouselHeader = () => {
                           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                         </Carousel.Caption>
                       </Carousel.Item>
-                    </Carousel> */}
+                    </Carousel> 
 
                </div>
 }
