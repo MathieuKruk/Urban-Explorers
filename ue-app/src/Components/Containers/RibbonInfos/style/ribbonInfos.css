@@ -31,7 +31,7 @@
 .ticker-wrap {
   z-index: 1;
   position: fixed;
-  bottom: -24px;
+  bottom: -30px;
   width: 100%;
   overflow: hidden;
   height: 2rem;
