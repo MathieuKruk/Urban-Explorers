@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54ae0b37.chunk.css",
+    "main.js": "/static/js/main.05c7c126.chunk.js",
+    "main.js.map": "/static/js/main.05c7c126.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.42eca0d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.42eca0d9.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3bee7515.chunk.js": "/static/js/2.3bee7515.chunk.js",
+    "static/js/2.3bee7515.chunk.js.map": "/static/js/2.3bee7515.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0c973b88e071f764fefb285ee9fc5fa.js": "/precache-manifest.e0c973b88e071f764fefb285ee9fc5fa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.54ae0b37.chunk.css.map": "/static/css/main.54ae0b37.chunk.css.map",
+    "static/js/2.3bee7515.chunk.js.LICENSE.txt": "/static/js/2.3bee7515.chunk.js.LICENSE.txt",
+    "static/media/Crowd1.png": "/static/media/Crowd1.eab06f72.png",
+    "static/media/Crowd2.png": "/static/media/Crowd2.a27d5b3a.png",
+    "static/media/TitleExplorers.svg": "/static/media/TitleExplorers.944e8273.svg",
+    "static/media/TitleUrban.svg": "/static/media/TitleUrban.a3345009.svg",
+    "static/media/Vinyle.svg": "/static/media/Vinyle.91ae0e24.svg",
+    "static/media/news1.jpg": "/static/media/news1.747c5a35.jpg",
+    "static/media/news2.jpg": "/static/media/news2.78527ac2.jpg",
+    "static/media/news3.jpg": "/static/media/news3.da01bd85.jpg",
+    "static/media/skateboard.svg": "/static/media/skateboard.6e6af5f8.svg",
+    "static/media/spray.svg": "/static/media/spray.3aa98591.svg",
+    "static/media/synthesizer.svg": "/static/media/synthesizer.3179a74e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42eca0d9.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.3bee7515.chunk.js",
+    "static/css/main.54ae0b37.chunk.css",
+    "static/js/main.05c7c126.chunk.js"
+  ]
+}
