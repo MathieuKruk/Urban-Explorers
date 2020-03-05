@@ -17,6 +17,7 @@ import Login from './Components/Containers/Authentication/Login';
 import RibbonInfos from './Components/Containers/RibbonInfos/RibbonInfos';
 
 import NavigationBar from './Components/Functionals/NavigationBar/NavigationBar';
+import Homepage from './Components/Containers/Homepage/Homepage';
 
 
 
@@ -25,8 +26,7 @@ function App() {
     <div className="App">
       <Router>
         <NavigationBar />
-        <ParticlesBackground />
-        <CarouselHeader />
+        <Homepage />
         <RibbonInfos />
       </Router>
     </div>
