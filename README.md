@@ -101,5 +101,5 @@ All rights reserved
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/H6VtX1y2rDUJXFahht/giphy.gif" height="40%" width="25%">
+  <img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" height="40%" width="25%">
 </p>
